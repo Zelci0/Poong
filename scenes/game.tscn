@@ -89,11 +89,29 @@ shape = SubResource("RectangleShape2D_cx33c")
 debug_color = Color(0.996865, 0.00080193, 0.000439723, 0.419608)
 
 [node name="Player" parent="." instance=ExtResource("2_4thjh")]
-position = Vector2(52, 735)
-position = Vector2(270, 907)
+position = Vector2(270, 895)
 
 [node name="Ball" parent="." instance=ExtResource("3_jhdko")]
 z_index = 1
 position = Vector2(270, 860)
 
+[node name="Positions" type="Node2D" parent="."]
+
+[node name="Pos_01" type="Marker2D" parent="Positions"]
+position = Vector2(-140, 104)
+
+[node name="Pos_02" type="Marker2D" parent="Positions"]
+position = Vector2(-151, 508)
+
+[node name="Pos_03" type="Marker2D" parent="Positions"]
+position = Vector2(707, 177)
+
+[node name="Pos_04" type="Marker2D" parent="Positions"]
+position = Vector2(653, 406)
+
+[node name="TimerSpawner" type="Timer" parent="."]
+wait_time = 3.0
+autostart = true
+
 [connection signal="body_entered" from="DeadZone" to="." method="_on_dead_zone_body_entered"]
+[connection signal="timeout" from="TimerSpawner" to="." method="_on_timer_spawner_timeout"]
