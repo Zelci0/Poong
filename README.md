@@ -34,7 +34,7 @@ Sistema de física embutido da Godot
 
 📜 Licença
 
-Este projeto é disponibilizado sob a Licença de Código Aberto. Você tem total liberdade para baixar, modificar e redistribuir o código-fonte, seja para uso pessoal ou comercial, de acordo com seus objetivos.
+Este projeto é de uso livre. Você tem total liberdade para baixar, modificar e redistribuir o código-fonte, seja para uso pessoal ou comercial, de acordo com seus objetivos.
 Sinta-se à vontade para adaptar o jogo, fazer melhorias ou até criar versões alternativas.
 
 👾 Desenvolvido por [Zelcio]
