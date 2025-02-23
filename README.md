@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/7894692d-b085-4b28-a41f-4fe717c8bfef)Pong Remake - Godot Game Engine
+Pong Remake - Godot Game Engine
 
 Este é um projeto de recriação do clássico jogo Pong utilizando a Godot Game Engine 4.0.
 
