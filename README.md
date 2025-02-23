@@ -1,4 +1,4 @@
-Pong Remake - Godot Game Engine
+Poong! - Godot Game Engine
 
 Este é um projeto de recriação do clássico jogo Pong utilizando a Godot Game Engine 4.0.
 
