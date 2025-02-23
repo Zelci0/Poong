@@ -89,7 +89,7 @@ shape = SubResource("RectangleShape2D_cx33c")
 debug_color = Color(0.996865, 0.00080193, 0.000439723, 0.419608)
 
 [node name="Player" parent="." instance=ExtResource("2_4thjh")]
-position = Vector2(270, 900)
+position = Vector2(52, 735)
 
 [node name="Ball" parent="." instance=ExtResource("3_jhdko")]
 z_index = 1
