@@ -29,10 +29,4 @@ Its main goal is to explore and learn the features of Godot Engine, as well as e
 - 🔧 Add more elaborate sound effects
 - 🔧 Implement a local multiplayer mode
 
-### 📜 License
-
-This project is available for anyone to use. You are free to download, modify, and redistribute the source code, whether for personal or commercial use, according to your goals.
-Feel free to adapt the game, make improvements, or even create alternative versions
-
-
 ### 👾 Developed by [Zelcio]
