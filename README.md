@@ -1,40 +1,37 @@
-Poong! - Godot Game Engine
-
-Este é um projeto de recriação do clássico jogo Pong utilizando a Godot Game Engine 4.0.
+# Poong! - Made with: Godot Game Engine
+This is a recreation project of the classic Pong game using Godot Game Engine 4.3.
 
 ![image](https://github.com/user-attachments/assets/3d582eec-f1d7-4b23-a34a-940f6691e473)
 
 
-🎮 Sobre o Projeto
+## 🎮 About the Project
 
-Este projeto é desenvolvido puramente para fins acadêmicos e como um meio de aprimorar minhas habilidades em programação. Seu objetivo principal é explorar e aprender os recursos da Godot Engine, além de melhorar a lógica de desenvolvimento de jogos.
+This project is developed purely for academic purposes and as a way to improve my programming skills.
+Its main goal is to explore and learn the features of Godot Engine, as well as enhance my game development logic.
 
-🛠 Tecnologias Utilizadas
+## 🛠 Technologies Used
 
-Godot Engine (versão 4.3)
+- Godot Engine (version 4.3)
+- GDScript
+- Built-in physics system of Godot
 
-GDScript
+## 📌 Features
 
-Sistema de física embutido da Godot
+- ✅ Player-controlled paddle movement
+- ✅ Destructive asteroids
+- ✅ Score counting
+- ✅ Basic sounds and visual effects
+- ✅ Singleplayer game
 
-📌 Funcionalidades
+## 🎨 Future Improvements
 
-✅ Movimento das raquetes controlado pelo jogador
-✅ Asteróides destrutivos
-✅ Contagem de pontos
-✅ Sons e efeitos visuais básicos
-✅ Jogo singleplayer
+- 🔧 Add opponents who drop bombs
+- 🔧 Add more elaborate sound effects
+- 🔧 Implement a local multiplayer mode
 
-🎨 Melhorias Futuras
+### 📜 License
 
-🔧 Adicionar oponentes que soltem bombas
-🔧 Adicionar
-🔧 Adicionar efeitos sonoros mais elaborados.
-🔧 Implementar um modo online para multiplayer.
+This project is made available for anyone to use. You are free to download, modify, and redistribute the source code, either for personal or commercial use, according to your goals.
+Feel free to adapt the game, make improvements, or even create alternative versions.
 
-📜 Licença
-
-Este projeto é de uso livre. Você tem total liberdade para baixar, modificar e redistribuir o código-fonte, seja para uso pessoal ou comercial, de acordo com seus objetivos.
-Sinta-se à vontade para adaptar o jogo, fazer melhorias ou até criar versões alternativas.
-
-👾 Desenvolvido por [Zelcio]
+### 👾 Developed by [Zelcio]
