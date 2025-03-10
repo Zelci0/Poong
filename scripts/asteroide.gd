@@ -22,5 +22,5 @@ func _on_timer_delete_timeout() -> void:
 func _on_body_entered(body: Node2D) -> void:
 	if not "Asteroide" in body:
 		body.score += 1
-		get_parent().play_explosion_sound()  # Chama a função no nó pai
+		get_parent().play_explosion_sound()
 		queue_free()
