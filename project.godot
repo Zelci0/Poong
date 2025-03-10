@@ -12,7 +12,7 @@ config_version=5
 
 config/name="Poong!"
 run/main_scene="res://scenes/game.tscn"
-config/features=PackedStringArray("4.3", "Mobile")
+config/features=PackedStringArray("4.4", "Mobile")
 config/icon="res://sprites/icon.svg"
 
 [display]
@@ -20,6 +20,14 @@ config/icon="res://sprites/icon.svg"
 window/size/viewport_width=540
 window/size/viewport_height=960
 window/handheld/orientation=1
+
+[layer_names]
+
+2d_physics/layer_1="Player"
+2d_physics/layer_2="Ball"
+2d_physics/layer_3="Walls"
+2d_physics/layer_4="Asteroids"
+2d_physics/layer_5="Hole"
 
 [rendering]
 
